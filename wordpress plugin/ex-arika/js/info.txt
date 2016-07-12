@@ -1,0 +1,11 @@
+* File:        jquery.dataTables.editable.min.js
+
+* Version:     2.3.3
+
+* File:        jquery.dataTables.min.js
+
+* Version:     1.9.4
+
+* File:        jquery.jeditable.min.js
+
+* Version:     1.7.2-dev

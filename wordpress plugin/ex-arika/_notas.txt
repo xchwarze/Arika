@@ -1,0 +1,7 @@
+actualizacion de dependencias
+migrar de dataTables a jeditable
+
+https://github.com/captioning/captioning
+https://github.com/delphiki/SubRip-File-Parser
+
+

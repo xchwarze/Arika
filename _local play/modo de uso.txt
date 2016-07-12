@@ -1,0 +1,20 @@
+Español
+-----------------------------------------------
+Para saltar las restricciones de javascript y flash lo mas rapido
+es usar un server local, este es un ejemplo de eso justamente.
+El tiny.exe es un mini webserver de 70k al que le agregue dos batch,
+uno monta el server en la misma carpeta donde se ejecuta y en el 
+puerto 777. El otro lo apaga.
+
+
+English
+-----------------------------------------------
+To skip javascript and flash restrictions, the quickest way is to use
+a local server, this is an example. 
+the tiny.exe is a mini webserver of 70k which I've added two batch, 
+one mounts the server in the same folder where it's executed on port 777. 
+the other one shuts it down.
+
+
+tiny.exe
+sha1 hash 05F59AC28179200193CCF87E4E0247630852602B

@@ -1,0 +1,40 @@
+span.imgbase {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    border: none;
+    cursor: pointer;
+    height: 24px;
+    width: 24px;
+    padding: 0 13px 10px;
+    vertical-align: middle;
+}
+span.imgreplay {
+    background-image: url('../../img/line_replay.png');
+}
+span.imgadd {
+    background-image: url('../../img/line_add.png');
+}
+span.imgdelete {
+    background-image: url('../../img/line_rem.png');
+}
+span.imgqaok {
+    background-image: url('../../img/line_qa_ok.png');
+}
+span.imgqaerror {
+    background-image: url('../../img/line_qa_error.png');
+}
+#substart {
+    float: left;
+}
+#subcurrent {
+    float: left;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#substop {
+    float: right;
+}
+#player {}
